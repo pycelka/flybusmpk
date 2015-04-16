@@ -1,9 +1,10 @@
-język : c#
+język: c#
+framework: .NET
 
 harmonogram:
 
-1. Zapoznanie sie ze srodowiskiem 
-2. Zaimplementowanie wyszukiania lotów(sam lot)
+1. Stworzenie projektu. I stworzenie pierwszego wygladu strony.
+2. Zaimplementowanie wyszukiania lotów (sam lot)
 3. Zaimplementowanie wyszukiwania dojazdu do miasta z lotniskiem
 4. Zaimplemetnowanie wyszukiwania dojazdu na lotnisko
 5. Zintegrowanie wszystkich systemów cw.1
